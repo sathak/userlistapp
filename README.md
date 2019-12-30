@@ -1,2 +1,0 @@
-# userlistapp
-Created with CodeSandbox

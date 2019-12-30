@@ -1,0 +1,1 @@
+export const Config = { apiUrl: 'https://userserviceapp.herokuapp.com/api/user'};
