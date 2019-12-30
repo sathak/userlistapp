@@ -29,11 +29,11 @@
     "redux-thunk": "^2.2.0"
   },
   "scripts": {
-    "start-react": "react-scripts start",
+    "start": "react-scripts start",
     "build-react": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "start": "webpack-dev-server"
+    "start-react": "webpack-dev-server"
   },
   "devDependencies": {
     "@babel/plugin-proposal-object-rest-spread": "^7.7.4",
